@@ -1,0 +1,11 @@
+{
+	"type": "choice",
+	"keys": ["fur_pattern"],
+	"default": "random",
+	"choices": [
+		"standard",
+		"calico"
+	],
+	"isAspect": true,
+	"aspectFormat": "meowth-fur-{{choice}}"
+}
