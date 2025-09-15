@@ -1,0 +1,14 @@
+{
+	"species": "cobblemon:incineroar",
+	"order": 7,
+	"variations": [
+		{
+		  "aspects": ["litten-fur-burnt_point"],
+		  "texture": "cobblemon:textures/pokemon/0727_incineroar/incineroar_burnt_point.png"
+		},
+		{
+		  "aspects": ["litten-fur-burnt_point", "shiny"],
+		  "texture": "cobblemon:textures/pokemon/0727_incineroar/incineroar_burnt_point_shiny.png"
+		}
+	]
+}
