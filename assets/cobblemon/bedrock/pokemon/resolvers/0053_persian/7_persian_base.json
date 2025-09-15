@@ -1,0 +1,24 @@
+{
+	"species": "cobblemon:persian",
+	"order": 7,
+	"variations": [
+		{
+		  "aspects": ["meowth-fur-calico"],
+		  "texture": "cobblemon:textures/pokemon/0053_persian/persian_calico.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "alolan"],
+		  "model": "cobblemon:persian_alolan.geo",
+		  "texture": "cobblemon:textures/pokemon/0053_persian/persian_alolan.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "shiny"],
+		  "texture": "cobblemon:textures/pokemon/0053_persian/persian_calico_shiny.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "alolan", "shiny"],
+		  "model": "cobblemon:persian_alolan.geo",
+		  "texture": "cobblemon:textures/pokemon/0053_persian/persian_alolan_shiny.png"
+		}
+	]
+}
