@@ -1,0 +1,10 @@
+{
+	"pokemon": [
+		"litten",
+		"torracat",
+		"incineroar"
+	],
+	"features": [
+		"fur_pattern_litten"
+	]
+}
