@@ -1,0 +1,34 @@
+{
+	"species": "cobblemon:meowth",
+	"order": 7,
+	"variations": [
+		{
+		  "aspects": ["meowth-fur-calico"],
+		  "texture": "cobblemon:textures/pokemon/0052_meowth/meowth_calico.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "galarian"],
+		  "model": "cobblemon:meowth_galarian.geo",
+		  "texture": "cobblemon:textures/pokemon/0052_meowth/meowth_galarian.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "alolan"],
+		  "model": "cobblemon:meowth_alolan.geo",
+		  "texture": "cobblemon:textures/pokemon/0052_meowth/meowth_alolan.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "shiny"],
+		  "texture": "cobblemon:textures/pokemon/0052_meowth/meowth_calico_shiny.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "galarian", "shiny"],
+		  "model": "cobblemon:meowth_galarian.geo",
+		  "texture": "cobblemon:textures/pokemon/0052_meowth/meowth_galarian_shiny.png"
+		},
+		{
+		  "aspects": ["meowth-fur-calico", "alolan", "shiny"],
+		  "model": "cobblemon:meowth_alolan.geo",
+		  "texture": "cobblemon:textures/pokemon/0052_meowth/meowth_alolan_shiny.png"
+		}
+	]
+}
