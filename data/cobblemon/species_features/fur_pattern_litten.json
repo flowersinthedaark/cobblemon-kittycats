@@ -1,0 +1,12 @@
+{
+	"type": "choice",
+	"keys": ["fur_pattern_litten"],
+	"default": "random",
+	"choices": [
+		"standard",
+		"standard",
+		"burnt_point"
+	],
+	"isAspect": true,
+	"aspectFormat": "litten-fur-{{choice}}"
+}
